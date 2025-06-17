@@ -12,8 +12,6 @@ export function App() {
       <Container>
         <Heading>MENU</Heading>
       </Container>
-      <Container>FORM</Container>
-      <Container>FOOTER</Container>
     </>
   );
 }
